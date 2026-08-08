@@ -1,0 +1,4 @@
+# Python cache files created when running the README indexer locally
+__pycache__/
+*.py[cod]
+
