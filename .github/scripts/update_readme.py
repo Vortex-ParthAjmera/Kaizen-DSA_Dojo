@@ -109,9 +109,41 @@ def render_stats(problems: list[Problem]) -> str:
     )
 
 
+def render_insights(problems: list[Problem]) -> str:
+    """Render a milestone meter and language distribution from discovered code."""
+    total = len(problems)
+    milestone = max(25, ((total // 25) + 1) * 25)
+    previous = milestone - 25
+    progress = total - previous if total else 0
+    percent = min(100, round((progress / 25) * 100))
+    filled = min(10, round(percent / 10))
+    meter = "█" * filled + "░" * (10 - filled)
+
+    language_counts = Counter(
+        SOLUTION_EXTENSIONS[file.suffix.lower()]
+        for problem in problems
+        for file in problem.solutions
+    )
+    if language_counts:
+        peak = max(language_counts.values())
+        lines = ["**Language forms**"]
+        for language, count in sorted(language_counts.items(), key=lambda item: (-item[1], item[0])):
+            bars = max(1, round((count / peak) * 8))
+            lines.append(f"`{language:<10}` {'▰' * bars}{'▱' * (8 - bars)} &nbsp; {count}")
+        languages = "  \n".join(lines)
+    else:
+        languages = "_No language has claimed the tatami yet._"
+
+    return (
+        f"**Next belt · {total} / {milestone} problems**\n\n"
+        f"`{meter}` **{percent}%**\n\n"
+        f"{languages}"
+    )
+
+
 def render_solutions(problems: list[Problem]) -> str:
     if not problems:
-        return "_The mats are ready. The first synced solution will appear here automatically._"
+        return "_The tatami is ready. The first synced solution will appear here automatically._"
 
     icons = {"Easy": "🟢 Easy", "Medium": "🟡 Medium", "Hard": "🔴 Hard", "Unknown": "⚪ —"}
     rows = ["| # | Problem | Difficulty | Solution |", "|---:|:---|:---:|:---|"]
@@ -140,6 +172,7 @@ def main() -> None:
     text = README.read_text(encoding="utf-8")
     problems = discover()
     updated = replace_section(text, "STATS", render_stats(problems))
+    updated = replace_section(updated, "INSIGHTS", render_insights(problems))
     updated = replace_section(updated, "SOLUTIONS", render_solutions(problems))
     if updated != text:
         README.write_text(updated, encoding="utf-8")
@@ -150,4 +183,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
