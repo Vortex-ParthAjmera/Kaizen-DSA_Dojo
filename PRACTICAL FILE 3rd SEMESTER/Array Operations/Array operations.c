@@ -1,11 +1,3 @@
-/*
-    DSA Practical 1: Array Operations
-    Implements: Traverse, Insert, Delete
-    ----------------------------------------------------
-    Compile : gcc array_operations.c -o array_operations
-    Run     : ./array_operations
-*/
-
 #include <stdio.h>
 
 #define MAX 100   // maximum capacity of the array
