@@ -61,7 +61,7 @@ The vault is searchable with <kbd>Ctrl</kbd> + <kbd>F</kbd>. Select a problem to
 <!-- LEETSYNC:SOLUTIONS:START -->
 | # | Problem | Difficulty | Solution |
 |---:|:---|:---:|:---|
-| — | [Practical File 3rd Semester](PRACTICAL%20FILE%203rd%20SEMESTER) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/Array%20operations.c) |
+| — | [Array Operations](PRACTICAL%20FILE%203rd%20SEMESTER/Array%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/Array%20Operations/Array%20operations.c) |
 <!-- LEETSYNC:SOLUTIONS:END -->
 
 ## 自動化 · The invisible caretaker
