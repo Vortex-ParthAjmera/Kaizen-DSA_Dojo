@@ -19,15 +19,16 @@
 <!-- LEETSYNC:STATS:START -->
 | Problems solved | Easy | Medium | Hard | Languages |
 |:---:|:---:|:---:|:---:|:---:|
-| **0** | 🟢 0 | 🟡 0 | 🔴 0 | — |
+| **1** | 🟢 0 | 🟡 0 | 🔴 0 | C |
 <!-- LEETSYNC:STATS:END -->
 
 <!-- LEETSYNC:INSIGHTS:START -->
-**Next belt · 0 / 25 problems**
+**Next belt · 1 / 25 problems**
 
-`░░░░░░░░░░` **0%**
+`░░░░░░░░░░` **4%**
 
-_No language has claimed the tatami yet._
+**Language forms**  
+`C         ` ▰▰▰▰▰▰▰▰ &nbsp; 1
 <!-- LEETSYNC:INSIGHTS:END -->
 
 <div align="center"><sub>GENERATED FROM THE CODE IN THIS REPOSITORY · ZERO MANUAL COUNTING</sub></div>
@@ -58,7 +59,9 @@ Every accepted answer enters a loop. The code is the artifact; sharper judgment 
 The vault is searchable with <kbd>Ctrl</kbd> + <kbd>F</kbd>. Select a problem to open its full LeetSync folder or jump directly to a language implementation.
 
 <!-- LEETSYNC:SOLUTIONS:START -->
-_The tatami is ready. The first synced solution will appear here automatically._
+| # | Problem | Difficulty | Solution |
+|---:|:---|:---:|:---|
+| — | [Practical File 3rd Semester](PRACTICAL%20FILE%203rd%20SEMESTER) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/Array%20operations.c) |
 <!-- LEETSYNC:SOLUTIONS:END -->
 
 ## 自動化 · The invisible caretaker
