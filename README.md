@@ -19,16 +19,16 @@
 <!-- LEETSYNC:STATS:START -->
 | Problems solved | Easy | Medium | Hard | Languages |
 |:---:|:---:|:---:|:---:|:---:|
-| **2** | 🟢 0 | 🟡 0 | 🔴 0 | C |
+| **6** | 🟢 0 | 🟡 0 | 🔴 0 | C |
 <!-- LEETSYNC:STATS:END -->
 
 <!-- LEETSYNC:INSIGHTS:START -->
-**Next belt · 2 / 25 problems**
+**Next belt · 6 / 25 problems**
 
-`█░░░░░░░░░` **8%**
+`██░░░░░░░░` **24%**
 
 **Language forms**  
-`C         ` ▰▰▰▰▰▰▰▰ &nbsp; 2
+`C         ` ▰▰▰▰▰▰▰▰ &nbsp; 6
 <!-- LEETSYNC:INSIGHTS:END -->
 
 <div align="center"><sub>GENERATED FROM THE CODE IN THIS REPOSITORY · ZERO MANUAL COUNTING</sub></div>
@@ -63,6 +63,10 @@ The vault is searchable with <kbd>Ctrl</kbd> + <kbd>F</kbd>. Select a problem to
 |---:|:---|:---:|:---|
 | 1 | [Array Operations](PRACTICAL%20FILE%203rd%20SEMESTER/01-Array%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/01-Array%20Operations/Array%20operations.c) |
 | 2 | [Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/02-%20Linked%20list%20operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/02-%20Linked%20list%20operations/Linked%20list%20operations.c) |
+| 3 | [Doubly Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/03-Doubly%20Linked%20List%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/03-Doubly%20Linked%20List%20Operations/code.c) |
+| 4 | [Circular Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/04-Circular%20Linked%20List%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/04-Circular%20Linked%20List%20Operations/code.c) |
+| 5 | [Circular Doubly Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/05-Circular%20Doubly%20Linked%20List%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/05-Circular%20Doubly%20Linked%20List%20Operations/code.c) |
+| 6 | [Stack Operations Using Array](PRACTICAL%20FILE%203rd%20SEMESTER/06-Stack%20Operations%20using%20Array) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/06-Stack%20Operations%20using%20Array/code.c) |
 <!-- LEETSYNC:SOLUTIONS:END -->
 
 ## 自動化 · The invisible caretaker
