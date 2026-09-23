@@ -19,16 +19,16 @@
 <!-- LEETSYNC:STATS:START -->
 | Problems solved | Easy | Medium | Hard | Languages |
 |:---:|:---:|:---:|:---:|:---:|
-| **2** | 🟢 0 | 🟡 0 | 🔴 0 | C |
+| **10** | 🟢 0 | 🟡 0 | 🔴 1 | C |
 <!-- LEETSYNC:STATS:END -->
 
 <!-- LEETSYNC:INSIGHTS:START -->
-**Next belt · 2 / 25 problems**
+**Next belt · 10 / 25 problems**
 
-`█░░░░░░░░░` **8%**
+`████░░░░░░` **40%**
 
 **Language forms**  
-`C         ` ▰▰▰▰▰▰▰▰ &nbsp; 2
+`C         ` ▰▰▰▰▰▰▰▰ &nbsp; 10
 <!-- LEETSYNC:INSIGHTS:END -->
 
 <div align="center"><sub>GENERATED FROM THE CODE IN THIS REPOSITORY · ZERO MANUAL COUNTING</sub></div>
@@ -63,6 +63,14 @@ The vault is searchable with <kbd>Ctrl</kbd> + <kbd>F</kbd>. Select a problem to
 |---:|:---|:---:|:---|
 | 1 | [Array Operations](PRACTICAL%20FILE%203rd%20SEMESTER/01-Array%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/01-Array%20Operations/Array%20operations.c) |
 | 2 | [Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/02-%20Linked%20list%20operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/02-%20Linked%20list%20operations/Linked%20list%20operations.c) |
+| 3 | [Doubly Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/03-Doubly%20Linked%20List%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/03-Doubly%20Linked%20List%20Operations/code.c) |
+| 4 | [Circular Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/04-Circular%20Linked%20List%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/04-Circular%20Linked%20List%20Operations/code.c) |
+| 5 | [Circular Doubly Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/05-Circular%20Doubly%20Linked%20List%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/05-Circular%20Doubly%20Linked%20List%20Operations/code.c) |
+| 6 | [Stack Operations Using Array](PRACTICAL%20FILE%203rd%20SEMESTER/06-Stack%20Operations%20using%20Array) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/06-Stack%20Operations%20using%20Array/code.c) |
+| 7 | [Stack Operations Using Linked List](PRACTICAL%20FILE%203rd%20SEMESTER/07-%20Stack%20Operations%20using%20Linked%20List) | 🔴 Hard | [C](PRACTICAL%20FILE%203rd%20SEMESTER/07-%20Stack%20Operations%20using%20Linked%20List/code.c) |
+| 8 | [Queue Operations Using Array](PRACTICAL%20FILE%203rd%20SEMESTER/08-%20Queue%20Operations%20using%20Array) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/08-%20Queue%20Operations%20using%20Array/code.c) |
+| 9 | [Circular Queue Operations Using Array](PRACTICAL%20FILE%203rd%20SEMESTER/09-%20Circular%20Queue%20Operations%20using%20Array) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/09-%20Circular%20Queue%20Operations%20using%20Array/code.c) |
+| 10 | [Queue Using Linked List](PRACTICAL%20FILE%203rd%20SEMESTER/10-%20Queue%20using%20linked%20list) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/10-%20Queue%20using%20linked%20list/code.c) |
 <!-- LEETSYNC:SOLUTIONS:END -->
 
 ## 自動化 · The invisible caretaker
