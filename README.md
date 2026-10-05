@@ -19,16 +19,16 @@
 <!-- LEETSYNC:STATS:START -->
 | Problems solved | Easy | Medium | Hard | Languages |
 |:---:|:---:|:---:|:---:|:---:|
-| **2** | 🟢 0 | 🟡 0 | 🔴 0 | C |
+| **16** | 🟢 1 | 🟡 0 | 🔴 1 | C |
 <!-- LEETSYNC:STATS:END -->
 
 <!-- LEETSYNC:INSIGHTS:START -->
-**Next belt · 2 / 25 problems**
+**Next belt · 16 / 25 problems**
 
-`█░░░░░░░░░` **8%**
+`██████░░░░` **64%**
 
 **Language forms**  
-`C         ` ▰▰▰▰▰▰▰▰ &nbsp; 2
+`C         ` ▰▰▰▰▰▰▰▰ &nbsp; 16
 <!-- LEETSYNC:INSIGHTS:END -->
 
 <div align="center"><sub>GENERATED FROM THE CODE IN THIS REPOSITORY · ZERO MANUAL COUNTING</sub></div>
@@ -63,6 +63,20 @@ The vault is searchable with <kbd>Ctrl</kbd> + <kbd>F</kbd>. Select a problem to
 |---:|:---|:---:|:---|
 | 1 | [Array Operations](PRACTICAL%20FILE%203rd%20SEMESTER/01-Array%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/01-Array%20Operations/Array%20operations.c) |
 | 2 | [Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/02-%20Linked%20list%20operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/02-%20Linked%20list%20operations/Linked%20list%20operations.c) |
+| 3 | [Doubly Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/03-Doubly%20Linked%20List%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/03-Doubly%20Linked%20List%20Operations/code.c) |
+| 4 | [Circular Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/04-Circular%20Linked%20List%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/04-Circular%20Linked%20List%20Operations/code.c) |
+| 5 | [Circular Doubly Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/05-Circular%20Doubly%20Linked%20List%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/05-Circular%20Doubly%20Linked%20List%20Operations/code.c) |
+| 6 | [Stack Operations Using Array](PRACTICAL%20FILE%203rd%20SEMESTER/06-Stack%20Operations%20using%20Array) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/06-Stack%20Operations%20using%20Array/code.c) |
+| 7 | [Stack Operations Using Linked List](PRACTICAL%20FILE%203rd%20SEMESTER/07-%20Stack%20Operations%20using%20Linked%20List) | 🔴 Hard | [C](PRACTICAL%20FILE%203rd%20SEMESTER/07-%20Stack%20Operations%20using%20Linked%20List/code.c) |
+| 8 | [Queue Operations Using Array](PRACTICAL%20FILE%203rd%20SEMESTER/08-%20Queue%20Operations%20using%20Array) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/08-%20Queue%20Operations%20using%20Array/code.c) |
+| 9 | [Circular Queue Operations Using Array](PRACTICAL%20FILE%203rd%20SEMESTER/09-%20Circular%20Queue%20Operations%20using%20Array) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/09-%20Circular%20Queue%20Operations%20using%20Array/code.c) |
+| 10 | [Queue Using Linked List](PRACTICAL%20FILE%203rd%20SEMESTER/10-%20Queue%20using%20linked%20list) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/10-%20Queue%20using%20linked%20list/code.c) |
+| 11 | [Infix To Postfix (or Prefix) Conversion Using Stack11](PRACTICAL%20FILE%203rd%20SEMESTER/11-%20Infix%20to%20Postfix%20%28or%20Prefix%29%20conversion%20using%20stack11-%20) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/11-%20Infix%20to%20Postfix%20%28or%20Prefix%29%20conversion%20using%20stack11-%20/code.c) |
+| 12 | [Postfix Expression Evaluation Using Stack](PRACTICAL%20FILE%203rd%20SEMESTER/12-%20Postfix%20Expression%20Evaluation%20using%20Stack) | 🟢 Easy | [C](PRACTICAL%20FILE%203rd%20SEMESTER/12-%20Postfix%20Expression%20Evaluation%20using%20Stack/code.c) |
+| 13 | [Balanced Parentheses Checking Using Stack](PRACTICAL%20FILE%203rd%20SEMESTER/13-%20Balanced%20Parentheses%20Checking%20using%20Stack) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/13-%20Balanced%20Parentheses%20Checking%20using%20Stack/code.c) |
+| 14 | [Deque (double Ended Queue) Using Array](PRACTICAL%20FILE%203rd%20SEMESTER/14-%20Deque%20%28Double-Ended%20Queue%29%20using%20Array) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/14-%20Deque%20%28Double-Ended%20Queue%29%20using%20Array/code.c) |
+| 15 | [Factorial, Fibonacci, Gcd Using Recursion](PRACTICAL%20FILE%203rd%20SEMESTER/15-%20Factorial%2C%20Fibonacci%2C%20GCD%20using%20Recursion) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/15-%20Factorial%2C%20Fibonacci%2C%20GCD%20using%20Recursion/code.c) |
+| 16 | [Tower Of Hanoi](PRACTICAL%20FILE%203rd%20SEMESTER/16-Tower%20of%20Hanoi) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/16-Tower%20of%20Hanoi/code.c) |
 <!-- LEETSYNC:SOLUTIONS:END -->
 
 ## 自動化 · The invisible caretaker
